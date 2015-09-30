@@ -80,7 +80,7 @@ The following is a list of all of the challenges used for the 2014 CTF along wit
   <tr>
     <td>BOYCOTT</td>
     <td>0</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2015-cyberville-0">2015-cyberville-0</a></td>
+    <td>Not Available</td>
     <td>HEY GUYS, I SOMEHOW HACKED INTO THE CTF SERVERS AND MADE A CHALLENGE THAT APPEARS TO BE 0PTS, BUT IS ACTUALLY 50,000!!! LET'S BOYCOTT THE CTF BY ALL GETTING THE POINTS BY USING THE KEY MCA-FFFFFF!</td>
   </tr>
   <tr>
