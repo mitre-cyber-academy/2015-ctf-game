@@ -86,13 +86,13 @@ The following is a list of all of the challenges used for the 2014 CTF along wit
   <tr>
     <td>I Spy (Part 1)</td>
     <td>50</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2015-cyberville-50">2015-cyberville-50</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2015-cyberville-50-100">2015-cyberville-50-100</a></td>
     <td>Matt sent you "an IP", see what you can do with it. </td>
   </tr>
   <tr>
     <td>I Spy (Part 2)</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2015-cyberville-100">2015-cyberville-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2015-cyberville-50-100">2015-cyberville-50-100</a></td>
     <td>I feel like we've been "here" before.</td>
   </tr>
   <tr>
