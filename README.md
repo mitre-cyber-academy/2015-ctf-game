@@ -165,7 +165,7 @@ The following is a list of all of the challenges used for the 2015 CTF along wit
 
 #### Regex used to assist in generating this file (The first block is placed in the "Find" block and the second in the "Replace" block in sublime)
 
-This regex can be used on the result of the exported challenges with only the "Name" associated field checked for category and all associated flag fields unchecked. You will need to export as json and then use an online converter to conver it to yaml.
+This regex can be used on the result of the exported challenges with only the "Name" associated field checked for category and all associated flag fields unchecked. You will need to export as json and then use an online converter to convert it to yaml.
 
 **Find Block:**
 
